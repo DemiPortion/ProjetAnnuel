@@ -1,0 +1,8 @@
+numpy
+pyaudio
+vosk
+resemblyzer
+torch
+soundfile
+numba
+llvmlite

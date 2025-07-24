@@ -1,0 +1,8 @@
+vosk
+pyaudio
+numpy
+resemblyzer
+scikit-learn
+matplotlib
+umap-learn
+seaborn
