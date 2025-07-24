@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\{1FECFDD0-891A-4AE8-88D2-B4AA4E3D58A9}]
+@="CustomCredentialProvider"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters]
+@=""
+
+; Enregistrement de la DLL (optionnel pour signature)
+[HKEY_CLASSES_ROOT\CLSID\{1FECFDD0-891A-4AE8-88D2-B4AA4E3D58A9}]
+@="CustomCredentialProvider"
